@@ -54,7 +54,7 @@ header {
 
 .search_bar {
     height: 40px;
-    min-width: 150px;
+    min-width: 200px;
     width: 30%;
     display: flex;
     align-items: center;
